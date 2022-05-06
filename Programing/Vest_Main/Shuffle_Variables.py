@@ -67,128 +67,140 @@ Numbers_Corresponding_To_Building_Letters = {"1":"A", "2":"B", "3":"C", "4":"E",
 '''This way I can use the Random module to generate random building letters'''
 Spawn_Letter = str(Numbers_Corresponding_To_Building_Letters[str(random.randint(1,12))])
 '''Write this down in a variable so that I can display it as well'''
-First_Or_Second_Building = str(random.randint(1,2))
+Spawn_First_Or_Second_Building = str(random.randint(1,2))
 '''Because there are so  many buildings in Henry's complex with the same letters, I have split it into either 1 or 2 this variable is randomly generated either 1 or 2'''
-Building_Number = 0
+Spawn_Building_Number = 0
 
 for key in All_Buildings_Dictionary:
-    if Spawn_Letter == "A" and First_Or_Second_Building == "1":
-        Building_Number = "32"
+    if Spawn_Letter == "A" and Spawn_First_Or_Second_Building == "1":
+        Spawn_Building_Number = "32"
         Spawn = All_Buildings[0]
         break
-    if Spawn_Letter == "B" and First_Or_Second_Building == "1":
-        Building_Number_With_Skips = str(random.randint(1, 2))
-        if Building_Number_With_Skips == "1":
-            Building_Number = str(random.randint(30, 31))
-            if Building_Number == "30":
+    if Spawn_Letter == "B" and Spawn_First_Or_Second_Building == "1":
+        Spawn_Building_Number_With_Skips = str(random.randint(1, 2))
+        if Spawn_Building_Number_With_Skips == "1":
+            Spawn_Building_Number = str(random.randint(30, 31))
+            if Spawn_Building_Number == "30":
                 Spawn = All_Buildings[1]
                 break
-            if Building_Number == "31":
+            if Spawn_Building_Number == "31":
                 Spawn = All_Buildings[2]
                 break
             break
-        if Building_Number_With_Skips == "2":
-            Building_Number = str(random.randint(35, 36))
-            if Building_Number == "35":
+        if Spawn_Building_Number_With_Skips == "2":
+            Spawn_Building_Number = str(random.randint(35, 36))
+            if Spawn_Building_Number == "35":
                 Spawn = All_Buildings[3]
                 break
-            if Building_Number == "36":
+            if Spawn_Building_Number == "36":
                 Spawn = All_Buildings[4]
                 break
             break
         break
-    if Spawn_Letter == "B" and First_Or_Second_Building == "2":
-        Building_Number = str(random.randint(35, 36))
-        if Building_Number == "35":
+    if Spawn_Letter == "B" and Spawn_First_Or_Second_Building == "2":
+        Spawn_Building_Number = str(random.randint(35, 36))
+        if Spawn_Building_Number == "35":
             Spawn = All_Buildings[5]
             break
-        if Building_Number == "36":
+        if Spawn_Building_Number == "36":
             Spawn = All_Buildings[6]
             break
         break
-    if Spawn_Letter == "C" and First_Or_Second_Building == "1":
-        Building_Number = str(random.randint(27, 28))
-        if Building_Number == "27":
+    if Spawn_Letter == "C" and Spawn_First_Or_Second_Building == "1":
+        Spawn_Building_Number = str(random.randint(27, 28))
+        if Spawn_Building_Number == "27":
             Spawn = All_Buildings[7]
             break
-        if Building_Number == "28":
+        if Spawn_Building_Number == "28":
             Spawn = All_Buildings[8]
             break
         break
-    if Spawn_Letter == "E" and First_Or_Second_Building == "1":
-        Building_Number = str(random.randint(26, 27))
-        if Building_Number == "26":
+    if Spawn_Letter == "E" and Spawn_First_Or_Second_Building == "1":
+        Spawn_Building_Number = str(random.randint(26, 27))
+        if Spawn_Building_Number == "26":
             Spawn = All_Buildings[9]
             break
-        if Building_Number == "27":
+        if Spawn_Building_Number == "27":
             Spawn = All_Buildings[10]
             break
         break
-    if Spawn_Letter == "E" and First_Or_Second_Building == "2":
-        Building_Number = str(random.randint(1, 2))
-        if Building_Number == "1":
+    if Spawn_Letter == "E" and Spawn_First_Or_Second_Building == "2":
+        Spawn_Building_Number = str(random.randint(1, 2))
+        if Spawn_Building_Number == "1":
             Spawn = All_Buildings[11]
             break
-        if Building_Number == "2":
+        if Spawn_Building_Number == "2":
             Spawn = All_Buildings[12]
             break
         break
-    if Spawn_Letter == "F" and First_Or_Second_Building == "1":
-        Building_Number = "34"
+    if Spawn_Letter == "F" and Spawn_First_Or_Second_Building == "1":
+        Spawn_Building_Number = "34"
         Spawn = All_Buildings[13]
         break
-    if Spawn_Letter == "G" and First_Or_Second_Building == "1":
-        Building_Number = "29"
+    if Spawn_Letter == "G" and Spawn_First_Or_Second_Building == "1":
+        Spawn_Building_Number = "29"
         Spawn = All_Buildings[14]
         break
-    if Spawn_Letter == "H1" and First_Or_Second_Building == "1":
-        Building_Number = str(random.ranint(1, 3))
-        if Building_Number == "1":
+    if Spawn_Letter == "H1" and Spawn_First_Or_Second_Building == "1":
+        Spawn_Building_Number = str(random.ranint(1, 3))
+        if Spawn_Building_Number == "1":
             Spawn = All_Buildings[15]
             break
-        if Building_Number == "2":
+        if Spawn_Building_Number == "2":
             Spawn = All_Buildings[16]
             break
-        if Building_Number == "3":
+        if Spawn_Building_Number == "3":
             Spawn = All_Buildings[17]
             break
         break
-    if Spawn_Letter == "H" and First_Or_Second_Building == "1":
-        Building_Number = str(random.ranint(6, 7))
-        if Building_Number == "6":
+    if Spawn_Letter == "H" and Spawn_First_Or_Second_Building == "1":
+        Spawn_Building_Number = str(random.ranint(6, 7))
+        if Spawn_Building_Number == "6":
             Spawn = All_Buildings[18]
             break
-        if Building_Number == "7":
+        if Spawn_Building_Number == "7":
             Spawn = All_Buildings[19]
             break
         break
-    if Spawn_Letter == "K" and First_Or_Second_Building == "1":
-        Building_Number = str(random.randint(1, 7))
-        if Building_Number == "1":
+    if Spawn_Letter == "K" and Spawn_First_Or_Second_Building == "1":
+        Spawn_Building_Number = str(random.randint(1, 7))
+        if Spawn_Building_Number == "1":
             Spawn = All_Buildings[20]
             break
-        if Building_Number == "2":
+        if Spawn_Building_Number == "2":
             Spawn = All_Buildings[21]
             break
-        if Building_Number == "3":
+        if Spawn_Building_Number == "3":
             Spawn = All_Buildings[22]
             break
-        if Building_Number == "4":
+        if Spawn_Building_Number == "4":
             Spawn = All_Buildings[23]
             break
-        if Building_Number == "5":
+        if Spawn_Building_Number == "5":
             Spawn = All_Buildings[24]
             break
-        if Building_Number == "6":
+        if Spawn_Building_Number == "6":
             Spawn = All_Buildings[25]
             break
-        if Building_Number == "7":
+        if Spawn_Building_Number == "7":
             Spawn = All_Buildings[26]
             break
         break
-    if Spawn_Letter == "L" and First_Or_Second_Building == "1":
+    if Spawn_Letter == "L" and Spawn_First_Or_Second_Building == "1":
         Spawn = All_Buildings[27]
-        Building_Number = "1"
+        Spawn_Building_Number = "1"
+        break
+    if Spawn_Letter == "M" and Spawn_First_Or_Second_Building == "1":
+        Spawn_Building_Number = str(random.randin(1, 2))
+        if Spawn_Building_Number == "1":
+            Spawn = All_Buildings[28]
+            break
+        if Spawn_Building_Number == "2":
+            Spawn = All_Buildings[29]
+            break
+        break
+    if Spawn_Letter == "N" and Spawn_First_Or_Second_Building == "1":
+        Spawn_Building_Number = str(random.randin(1, 2))
 
 
-print('Spawn Letter: "', str(Spawn_Letter), '", First Or Second Building: "', str(First_Or_Second_Building), '" ', "Building Number: ", str(Building_Number), sep="")
+print('Spawn Letter: "', str(Spawn_Letter), '", First Or Second Building: "', str(Spawn_First_Or_Second_Building), '" ', "Building Number: ", str(Spawn_Building_Number), sep="")
