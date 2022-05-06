@@ -1,0 +1,48 @@
+The Device
+    Records:
+        GPS Location
+        OpenCV:
+            Video
+            Audio
+            Trackings:
+                Other Players:
+                    Face Trackings
+                    Hand Trackings
+                    Body Trackings
+                Self:
+                    Face Trackings
+                    Hand Trackings
+                    Body Trackings
+            Screen
+        Minecraft:
+            Health
+            Hunger
+            XP
+            Hotbar
+            Potions
+            Effects
+            Items
+    Shows:
+        Minecraft:
+            Health Bar
+            Hunger Bar
+            XP Bar
+            Hotbar
+            Effects
+            Items
+        Time:
+            Speedrun Time
+            Beijing Time
+        Location:
+            Map
+            Compass
+        Video:
+            Augmented reality Minecraft objects
+            openCV:
+                Trackings:
+                    Face Trackings
+                    Hand Trackings
+                    Body Trackings
+                    Recognition:
+                        Face Recognition
+                        Player Recognition
