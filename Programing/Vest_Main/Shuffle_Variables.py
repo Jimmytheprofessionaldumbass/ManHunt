@@ -6,6 +6,7 @@
 You can add some variables if you want or is needed'''
 
 import random
+from re import S
 
 
 '''The code for certain destinations of the ("minecraft") manhunt'''
@@ -201,6 +202,20 @@ for key in All_Buildings_Dictionary:
         break
     if Spawn_Letter == "N" and Spawn_First_Or_Second_Building == "1":
         Spawn_Building_Number = str(random.randin(1, 2))
-
+        if Spawn_Building_Number == "1":
+            Spawn = All_Buildings[30]
+            break
+        if Spawn_Building_Number == "2":
+            Spawn = All_Buildings[31]
+            break
+        break
+    if Spawn_Letter == "N" and Spawn_First_Or_Second_Building == "2":
+        Spawn_Building_Number = str(random.randin(1, 2))
+        if Spawn_Building_Number == "1":
+            Spawn = All_Buildings[32]
+            break
+        if Spawn_Building_Number == "2":
+            Spawn = All_Buildings[33]
+            
 
 print('Spawn Letter: "', str(Spawn_Letter), '", First Or Second Building: "', str(Spawn_First_Or_Second_Building), '" ', "Building Number: ", str(Spawn_Building_Number), sep="")
