@@ -1,0 +1,26 @@
+0.0.0.1:
+    Finished writing this frickin script or smth
+0.0.0.1.1:
+    improve my spellin. or not?
+0.0.0.6:
+    Finished writing random building script
+0.0.1.2.1:
+    Finished writing recording video part of record folder
+0.0.1.2.2:
+    Finished writing recording audio part of the "Record" folder
+0.0.1.2.3.2:
+        Finished writing code for tracking heads (but not recognizing. yet)
+0.0.1.2.3.3:
+    Finished writing code for tracking chests/middle part of the body I forgot what its called lol, my Atonemy and engliash very bed
+0.0.1.2.3.4:
+    Finished writing code for tracking arms with two segments like how arms usually do cuz don't you?
+0.0.1.2.3.5:
+    Finished writing code for tracking legs and arms. yay!
+0.0.1.2.3.6.1:
+    Finished writing code for tracking hands
+0.0.1.2.3.6.5:
+    Finished writing code for tracking all finger and all segments of the fingers oh my god I don't even know how, good luck GUI Lian
+0.0.1.2.3.6.9:
+    Finished writing code for tracking all parts mentioned and feet
+0.0.1.2.4:
+    Finished writing code for tracking body parts that I might have missed
