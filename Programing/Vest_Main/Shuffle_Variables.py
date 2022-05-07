@@ -142,7 +142,7 @@ for key in All_Buildings_Dictionary:
         Spawn = All_Buildings[14]
         break
     if Spawn_Letter == "H1" and Spawn_First_Or_Second_Building == "1":
-        Spawn_Building_Number = str(random.ranint(1, 3))
+        Spawn_Building_Number = str(random.randint(1, 3))
         if Spawn_Building_Number == "1":
             Spawn = All_Buildings[15]
             break
@@ -154,7 +154,7 @@ for key in All_Buildings_Dictionary:
             break
         break
     if Spawn_Letter == "H" and Spawn_First_Or_Second_Building == "1":
-        Spawn_Building_Number = str(random.ranint(6, 7))
+        Spawn_Building_Number = str(random.randint(6, 7))
         if Spawn_Building_Number == "6":
             Spawn = All_Buildings[18]
             break
@@ -191,7 +191,7 @@ for key in All_Buildings_Dictionary:
         Spawn_Building_Number = "1"
         break
     if Spawn_Letter == "M" and Spawn_First_Or_Second_Building == "1":
-        Spawn_Building_Number = str(random.randin(1, 2))
+        Spawn_Building_Number = str(random.randint(1, 2))
         if Spawn_Building_Number == "1":
             Spawn = All_Buildings[28]
             break
@@ -200,7 +200,7 @@ for key in All_Buildings_Dictionary:
             break
         break
     if Spawn_Letter == "N" and Spawn_First_Or_Second_Building == "1":
-        Spawn_Building_Number = str(random.randin(1, 2))
+        Spawn_Building_Number = str(random.randint(1, 2))
         if Spawn_Building_Number == "1":
             Spawn = All_Buildings[30]
             break
@@ -209,7 +209,7 @@ for key in All_Buildings_Dictionary:
             break
         break
     if Spawn_Letter == "N" and Spawn_First_Or_Second_Building == "2":
-        Spawn_Building_Number = str(random.randin(1, 2))
+        Spawn_Building_Number = str(random.randint(1, 2))
         if Spawn_Building_Number == "1":
             Spawn = All_Buildings[32]
             break
@@ -218,7 +218,7 @@ for key in All_Buildings_Dictionary:
             break
         break
     if Spawn_Letter == "P" and Spawn_First_Or_Second_Building == "1":
-        Spawn_Building_Number = str(random.randint(1, 11)
+        Spawn_Building_Number = str(random.randint(1, 11))
         if Spawn_Building_Number == "1":
             Spawn = All_Buildings[34]
             break
@@ -254,5 +254,4 @@ for key in All_Buildings_Dictionary:
             break
         break
     break
-break
 print('Spawn Letter: "', str(Spawn_Letter), '", First Or Second Building: "', str(Spawn_First_Or_Second_Building), '" ', "Building Number: ", str(Spawn_Building_Number), sep="")
