@@ -223,34 +223,34 @@ for key in All_Buildings_Dictionary:
             Spawn = All_Buildings[34]
             break
         if Spawn_Building_Number == "2":
-            Spawn = All_Buildings[34]
+            Spawn = All_Buildings[35]
             break
         if Spawn_Building_Number == "3":
-            Spawn = All_Buildings[34]
+            Spawn = All_Buildings[36]
             break
         if Spawn_Building_Number == "4":
-            Spawn = All_Buildings[34]
+            Spawn = All_Buildings[37]
             break
         if Spawn_Building_Number == "5":
-            Spawn = All_Buildings[34]
+            Spawn = All_Buildings[38]
             break
         if Spawn_Building_Number == "6":
-            Spawn = All_Buildings[34]
+            Spawn = All_Buildings[39]
             break
         if Spawn_Building_Number == "7":
-            Spawn = All_Buildings[34]
+            Spawn = All_Buildings[40]
             break
         if Spawn_Building_Number == "8":
-            Spawn = All_Buildings[34]
+            Spawn = All_Buildings[41]
             break
         if Spawn_Building_Number == "9":
-            Spawn = All_Buildings[34]
+            Spawn = All_Buildings[42]
             break
         if Spawn_Building_Number == "10":
-            Spawn = All_Buildings[34]
+            Spawn = All_Buildings[43]
             break
         if Spawn_Building_Number == "11":
-            Spawn = All_Buildings[34]
+            Spawn = All_Buildings[44]
             break
         break
     break
