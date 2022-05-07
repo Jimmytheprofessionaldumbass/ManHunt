@@ -38,7 +38,7 @@ The Device
             Compass
         Video:
             Augmented reality Minecraft objects
-            openCV:
+            OpenCV:
                 Trackings:
                     Face Trackings
                     Hand Trackings
@@ -46,3 +46,6 @@ The Device
                     Recognition:
                         Face Recognition
                         Player Recognition
+    Generates:
+        Random/Smart Buildings
+        Random Nether Blaze Rods
