@@ -216,6 +216,9 @@ for key in All_Buildings_Dictionary:
             break
         if Spawn_Building_Number == "2":
             Spawn = All_Buildings[33]
-            
-
+            break
+        break
+    if Spawn_Letter == "P" and Spawn_First_Or_Second_Building == "1":
+        Spawn_Building_Number = str(random.randint(1, 11)
+        
 print('Spawn Letter: "', str(Spawn_Letter), '", First Or Second Building: "', str(Spawn_First_Or_Second_Building), '" ', "Building Number: ", str(Spawn_Building_Number), sep="")
