@@ -1,24 +1,24 @@
 0.0.0.1:
-    Finished writing this frickin script or smth
+    Finished writing this frickin script or smth (Releases.txt)
 0.0.0.1.1:
-    improve my spellin. or not?
+    improve my spellin. or not? (Releases.txt)
 0.0.1.1.1:
     Finished writing script to generate random spawn building (Generate_Spawn_Building.py)
 0.0.1.1.4:
     Finished writing script to generate nether portal (Generate_Nether_Portal_Building.py)
 0.0.1.1.8:
-    Finished writing script to generate end portal letter (Generate_EndPortal_Letter.py)
+    Finished writing script to generate end portal letter (Generate_End_Portal_Letter.py)
 0.0.1.2:
-    Finished measuring distances between all buildings
+    Finished measuring distances between all buildings (Building_Distances.csv)
 0.0.1.3:
-    Finished writing script to "Smartly" generate pawn
+    Finished writing script to "Smartly" generate Spawn (Generate_Spawn_Building_Smartly.py)
 0.0.1.3.12:
-    Finished writing script to "Smartly" generate Nether Portal
+    Finished writing script to "Smartly" generate Nether Portal (Generate_Nether_Portal_Building_Smartly.py)
 0.0.1.3.32:
-    Finished writing script to "Smartly" generate End Portal
+    Finished writing script to "Smartly" generate End Portal (Generate_End_Portal_Building_Smartly.py)
 0.0.1.4.1:
-    Finished writing recording video part of "Record" folder
+    Finished writing recording video part of "Record" folder (Record_Video.py)
 0.0.1.4.2:
-    Finished writing recording audio part of the "Record" folder
+    Finished writing recording audio part of the "Record" folder (Record_Audio.py)
 0.0.1.4.3:
-    Finished writing both recording parts of the "Record" folder
+    Finished writing both recording parts of the "Record" folder (Record_Footage.py)
