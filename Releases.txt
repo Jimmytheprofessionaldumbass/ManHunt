@@ -1,3 +1,5 @@
+Potions in the next Release (Release V2)
+
 0.0.0.1:
     Finished writing this frickin script or smth (Releases.txt)
 0.0.0.1.1:
@@ -25,6 +27,10 @@
 0.0.1.5:
     Finished writing script for Swords to send damage [Script for Swords] (Steb_lol.py)
 0.0.1.5.10:
-    Finished writing script for Vest to recieve damage [Script for Swords] (Pian_Sword.py)
+    Finished writing script for Vest to recieve damage [Script for Vest] (Pian_Sword.py)
 0.0.1.6:
-    Finished Writing Script for Axes to recieve damage
+    Finished writing script for Axe to send damage [Script for Swords] (Chop_lol.py)
+0.0.1.6.10:
+    Finished writing script for Vest to recieve damage [Script for Vest] (Pian_Axe.py)
+0.0.1.7:
+    Finished writing script for Vest to Recieve damage [Script for Vest] (Le_Fist.py)
