@@ -50,4 +50,20 @@ Potions in a newer release (Release V3)
 0.0.1.9.3:
     Made GUI for Texting and Calling Program [Jimmy's Part] {Made it 𝒷𝑒𝒶𝓊𝓉𝒾𝒻𝓊𝓁} (GUI.css)
 0.0.1.9.3:
-    Made GUI for Texting and Calling Program [Jimmy's Part] {Finalized it} (GUI.css)
+    Made GUI for Texting and Calling Program [Jimmy's Part] {FINALIZED IT} (GUI.css)
+0.0.1.10:
+    Created script for son drones/monitors
+0.0.1.10.1:
+    Created script for mother drone/monitor
+0.0.1.10.1.1:
+    Tested time for message full ping
+0.0.1.10.2:
+    Betterfied All scripts
+0.0.1.10.3:
+    Finished script for location recording
+0.0.1.10.4:
+    Finished script for location detection
+0.0.1.10.5:
+    Finished PCB design for drone
+0.0.1.10.6:
+    Started assembling the parts of drone
