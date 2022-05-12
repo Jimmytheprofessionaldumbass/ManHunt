@@ -2,11 +2,19 @@
     Finished writing this frickin script or smth
 0.0.0.1.1:
     improve my spellin. or not?
-0.0.0.6:
-    Finished writing random building script
-0.0.1.2.1:
+0.0.1.1.1:
+    Finished writing script to generate random spawn building (Generate_Spawn_Building.py)
+0.0.1.1.4:
+    Finished writing script to generate nether portal (Generate_Nether_Portal_Building.py)
+0.0.1.1.8:
+    Finished writing script to generate end portal letter (Generate_EndPortal_Letter.py)
+0.0.1.2:
+    Finished measuring distances between all buildings
+0.0.1.3:
+    Finished writing script to "Smartly" Generate Nether Portal and End Portal
+0.0.1.4.1:
     Finished writing recording video part of "Record" folder
-0.0.1.2.2:
+0.0.1.4.2:
     Finished writing recording audio part of the "Record" folder
-0.0.1.2.3.2:
-    Finished writing recording both parts of the "Record" folder.
+0.0.1.4:
+    Finished writing both recording parts of the "Record" folder
