@@ -1,4 +1,5 @@
-Potions in the next Release (Release V2)
+Food and Hunger Bar in the next release (Release V2)
+Potions in a newer release (Release V3)
 
 0.0.0.1:
     Finished writing this frickin script or smth (Releases.txt)
@@ -27,10 +28,26 @@ Potions in the next Release (Release V2)
 0.0.1.5:
     Finished writing script for Swords to send damage [Script for Swords] (Steb_lol.py)
 0.0.1.5.10:
-    Finished writing script for Vest to recieve damage [Script for Vest] (Pian_Sword.py)
+    Finished writing script for Vest to recieve Stab/Sword damage [Script for Vest] (Pian_Sword.py)
 0.0.1.6:
     Finished writing script for Axe to send damage [Script for Swords] (Chop_lol.py)
 0.0.1.6.10:
-    Finished writing script for Vest to recieve damage [Script for Vest] (Pian_Axe.py)
+    Finished writing script for Vest to recieve Axe damage [Script for Vest] (Pian_Axe.py)
 0.0.1.7:
     Finished writing script for Vest to Recieve damage [Script for Vest] (Le_Fist.py)
+0.0.1.8:
+    Finished writing script for healing over time (Le_Paower_of_Regeneration.py)
+0.0.1.9.1:
+    Finished writing server script for Texting [Jimmy's Part] {HTML/CSS part} (txt.css)
+0.0.1.9.2:
+    Started writing server script for Calling [Jimmy's Part] {The Basics} (Insult.css)
+0.0.1.9.2.5:
+    Improved server script for Calling [Jimmy's Part] {With mute and deafen} (Insult.css)
+0.0.1.9.2.10:
+    Finished writing server script for Calling [Jimmy's Part] {Finalized it} (Insult.css)
+0.0.1.9.3:
+    Made GUI for Texting and Calling Program [Jimmy's Part] {Made the basics} (GUI.css) lol try to pronounce the extention lol
+0.0.1.9.3:
+    Made GUI for Texting and Calling Program [Jimmy's Part] {Made it 𝒷𝑒𝒶𝓊𝓉𝒾𝒻𝓊𝓁} (GUI.css)
+0.0.1.9.3:
+    Made GUI for Texting and Calling Program [Jimmy's Part] {Finalized it} (GUI.css)
