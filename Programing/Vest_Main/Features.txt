@@ -4,15 +4,6 @@ The Device
         OpenCV:
             Video
             Audio
-            Trackings:
-                Other Players:
-                    Face Trackings
-                    Hand Trackings
-                    Body Trackings
-                Self:
-                    Face Trackings
-                    Hand Trackings
-                    Body Trackings
             Screen
         Minecraft:
             Health
@@ -39,13 +30,7 @@ The Device
         Video:
             Augmented reality Minecraft objects
             OpenCV:
-                Trackings:
-                    Face Trackings
-                    Hand Trackings
-                    Body Trackings
-                    Recognition:
-                        Face Recognition
-                        Player Recognition
+                Player up close with target icon just in case the player has bad eyesight lol
     Generates:
         Random/Smart Buildings
         Random Nether Blaze Rods
