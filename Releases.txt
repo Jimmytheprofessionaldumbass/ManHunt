@@ -64,6 +64,38 @@ Potions in a newer release (Release V3)
 0.0.1.10.4:
     Finished script for location detection
 0.0.1.10.5:
-    Finished PCB design for drone
+    Finished PCB design for drone and bought the Pieces
 0.0.1.10.6:
     Started assembling the parts of drone
+0.0.1.10.7:
+    Made it successfully fly
+0.0.1.10.8:
+    Stablized it
+0.0.1.10.9:
+    Found Bugs and stomped them
+0.0.1.10.10
+    Finalized it
+0.0.1.11.1:
+    Finished creating the Minecraft-like GUI [Healthbar]
+0.0.1.11.2:
+    Finished creating the Minecraft-like GUI [HotBar]
+0.0.1.11.3:
+    Finished creating the Minecraft-like GUIs [The rest small details\
+    such as:
+        Aiming thing, like y'know the thing that is always in the middle?, help my vocab or keep it like this if you like my way of taiping or somthing
+        Hit effect
+        etc. I'll get back when I think of it
+0.0.1.11.4:
+    Finalized Minecraft GUIs [Well, Everything]
+0.0.1.11.5:
+    Started Making GUIs work [Like respond to punches and stuff, y'know]
+0.0.1.11.6:
+    Finalized GUI [Made everything work perfectly]
+0.0.1.12.1:
+    Started on tootaly not stealing Minecraft's original sounds and soundtracks lol.
+0.0.1.13:
+    Finished Every needed stuff in Vest_Main
+0.0.1.14:
+    Crushed all bugs with a tank
+0.0.1.15:
+    Finalized everything with Vest_Main
