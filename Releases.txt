@@ -17,8 +17,14 @@
 0.0.1.3.32:
     Finished writing script to "Smartly" generate End Portal (Generate_End_Portal_Building_Smartly.py)
 0.0.1.4.1:
-    Finished writing recording video part of "Record" folder (Record_Video.py)
+    Finished writing script recording video part of "Record" folder (Record_Video.py)
 0.0.1.4.2:
-    Finished writing recording audio part of the "Record" folder (Record_Audio.py)
+    Finished writing script recording audio part of the "Record" folder (Record_Audio.py)
 0.0.1.4.3:
-    Finished writing both recording parts of the "Record" folder (Record_Footage.py)
+    Finished writing script both recording parts of the "Record" folder (Record_Footage.py)
+0.0.1.5:
+    Finished writing script for Swords to send damage [Script for Swords] (Steb_lol.py)
+0.0.1.5.10:
+    Finished writing script for Vest to recieve damage [Script for Swords] (Pian_Sword.py)
+0.0.1.6:
+    Finished Writing Script for Axes to recieve damage
