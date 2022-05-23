@@ -5,6 +5,8 @@ Potions in a newer release (Release V3)
     Finished writing this frickin script or smth (Releases.txt)
 0.0.0.1.1:
     improve my spellin. or not? (Releases.txt)
+0.0.0.1.2:
+    put releases in correct order for better known goals
 0.0.1.1.1:
     Finished writing script to generate random spawn building (Generate_Spawn_Building.py)
 0.0.1.1.4:
