@@ -1,0 +1,2 @@
+Create a directory with your code before sending code to higher developers to review and attach to main branch. 
+  for example: If you create a new .py file for the project, please input them into a folder with your name that is in the "to be reviewed" branch. 
